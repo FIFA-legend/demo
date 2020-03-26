@@ -6,5 +6,6 @@ public class main {
         System.out.println("дарова");
         i = 3.14;
         System.out.println("sdgadgasgasg");
+        System.out.println("commit 1");
     }
 }
