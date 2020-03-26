@@ -5,5 +5,6 @@ public class main {
         double i = 17.4;
         System.out.println("дарова");
         System.out.println("commit 5");
+        System.out.println("commit 6");
     }
 }
