@@ -5,5 +5,6 @@ public class main {
         double i = 17.4;
         System.out.println("дарова");
         i = 3.14;
+        System.out.println("sdgadgasgasg");
     }
 }
