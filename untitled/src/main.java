@@ -4,7 +4,7 @@ public class main {
         System.out.println("Hola");
         double i = 17.4;
         System.out.println("дарова");
-        i = 3.14;
-        System.out.println("sdgadgasgasg");
+        System.out.println("commit 5");
+        System.out.println("commit 6");
     }
 }
