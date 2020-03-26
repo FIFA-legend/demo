@@ -6,5 +6,6 @@ public class main {
         System.out.println("дарова");
         System.out.println("commit 5");
         System.out.println("commit 6");
+        System.out.println("commit 7");
     }
 }
